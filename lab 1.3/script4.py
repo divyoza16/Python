@@ -1,0 +1,30 @@
+# Declare a variable of each datatype 
+# To print value, type and id (memory address) 
+a = 10 
+print(f"A = {a}") 
+print(f"Type of A = {type(a)}")
+print(f"Id of A = {id(a)}") 
+b = 3.4 
+print(f"B = {b}") 
+print(f"Type of B = {type(b)}") 
+print(f"Id of B = {id(b)}")  
+c = "abc" 
+print(f"C = {c}")
+print(f"Type of C = {type(c)}") 
+print(f"Id of C = {id(c)}") 
+d = True
+print(f"D = {d}") 
+print(f"Type of C = {type(d)}") 
+print(f"Id of C = {id(d)}") 
+e = [1,2,3,4]
+print(f"E = {e}") 
+print(f"Type of E = {type(e)}") 
+print(f"Id of E = {id(e)}") 
+g = (1,2,3,4) 
+print(f"G = {g}")
+print(f"Type of g = {type(g)}")
+print(f"Id of g = {id(g)}") 
+f = {1:1,"name":"abc"} 
+print(f"F = {f}") 
+print(f"Type of f = {type(f)}") 
+print(f"Id of F = {type(f)}") 
