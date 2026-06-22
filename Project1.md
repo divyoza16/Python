@@ -181,12 +181,6 @@ if __name__ == "__main__":
 
 ```
 
-## Run It
-
-```bash
-python personal_data_collector.py
-```
-
 ---
 *This README, the flowchart, and the video button above were all generated
 programmatically by `generate_readme.py` -- edit the lists/dicts at the top
