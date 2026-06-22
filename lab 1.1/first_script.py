@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ") 
+school = input("Enter your school name: ") 
+print(f"Name: {name}") 
+print(f"Age: {age}") 
+print(f"School name: {school}") 
