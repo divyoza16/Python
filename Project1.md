@@ -177,11 +177,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-
-```
-
----
-*This README, the flowchart, and the video button above were all generated
-programmatically by `generate_readme.py` -- edit the lists/dicts at the top
-of that file and rerun it to regenerate everything.*
+    main()   
